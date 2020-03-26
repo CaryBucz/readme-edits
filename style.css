@@ -2,10 +2,10 @@
    
    defining all the named features of the page.
 */
-/* not sure why this doesn't link to the page. */
+/* not sure why this doesn't link to the page. Having trouble getting a comparison.*/
 /* Top Header format titles */
 h1 {   float: left;
-	color:#555; 
+	color:#666; 
 	font-family: Tahoma;
 	font-size: 20px;}
 /* Top Header date format titles */

@@ -8,4 +8,4 @@ I also could not link my CSS style page properly so I just put it at the start o
 
 The last sofware coding I had done was in robotic C controls, three years ago.
 
-I do hope this demonstrates how I can teach myself anything in a short period to get a job done.
+I do hope this demonstrates how I can teach myself anything in a short period to get a job done.  I added something to compare.

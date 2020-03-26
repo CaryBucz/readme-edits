@@ -1,8 +1,11 @@
-# readme-edits
-this is supposed to be the Hello-World file.
-The edits file from the web based GitHub
-The desktop version would not show me the repository files.
+# RedVenture-CJBuczkowski1
 
-Cary is from Buffalo, NY 
-She loves her family, fastpich softball, NASCAR, the Buffalo Bills and Sabres and musicals.
-As former hardware engineer and High School teacher she is looking to impact the software world.
+This is the static, self contained HTML blogpage design.
+
+I do not know how to bring in the data file referenced so I hardcoded the entire thing.  I am hoping there is an app to write and reaign the data to the classes I defined so this would be a dynamic load into my general formatting.
+
+I also could not link my CSS style page properly so I just put it at the start of the file.
+
+The last sofware coding I had done was in robotic C controls, three years ago.
+
+I do hope this demonstrates how I can teach myself anything in a short period to get a job done.

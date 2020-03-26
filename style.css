@@ -1,0 +1,87 @@
+/* Here is the start of my style page.
+   
+   defining all the named features of the page.
+*/
+/* not sure why this doesn't link to the page. */
+/* Top Header format titles */
+h1 {   float: left;
+	color:#555; 
+	font-family: Tahoma;
+	font-size: 20px;}
+/* Top Header date format titles */
+h2 {   float: right;
+	color:#0033CC; 
+	font-family: Arial;
+	font-size: 8px;
+	}
+/* Names format titles */
+h3 {   
+	color:#0088CC;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	} 
+/* Charlie headers format */
+h5 {   
+	color:#ff336b;
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 16px;
+	} 
+/* Mygel headers format */
+h4 {   
+	color:#555; 
+	font-family: Tahoma;
+	font-size: 8px;
+	}
+/* Messages format */
+p {
+	color:#555; 
+	font-family: sans-serif;
+	font-size: 12px;
+	}
+
+/* position for Mygel pic */
+.picMvT{
+	float: left;
+	padding: 15px;
+	size: 80px;
+	margin: 30px 5px 10px 10px;
+	}
+
+/* Frame around Mygel posts */
+.postMvT{
+	float: center;
+	padding: 10px;
+	margin: 10px 5px 10px 20px;
+	size: 400px;
+	background: #f5f5f5;
+	}
+
+/* position for Charlie pic */
+.picCH{
+	float: right;
+	padding: 10px;
+	size: 80px;
+	margin: 10px 5px 30px 10px;
+	}
+
+/* Frame around Charlie posts */
+.postCH{
+	float: center;
+	padding: 10px;
+	margin: 10px 2S0px 10px 5px;
+	size: 400px;
+	background: #f5f5f5;
+	}
+
+/* frame around the background post */
+.post-focused{
+	float: center;
+	padding: 10px;
+	margin: 10px 5px 10px 5px;
+	border: 20px #f5f5f5 solid;
+	size: 400px;
+	background: #fff;
+	box-shadow: 10px #f5f5f5 solid;
+	}
